@@ -135,7 +135,7 @@ To run the code:
 - seaborn
 
 - ### Feature Importance
-![Feature Importance](feature_importance.png)
+![Feature Importance](image/feature_importance.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](image/confusion_matrix.png)

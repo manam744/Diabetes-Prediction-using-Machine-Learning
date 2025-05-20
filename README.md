@@ -133,3 +133,13 @@ To run the code:
 - xgboost
 - matplotlib
 - seaborn
+
+- ### Feature Importance
+![Feature Importance](image/feature_importance.png)
+
+### Confusion Matrix
+![Confusion Matrix](image/confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](image/roc_curve.png)
+

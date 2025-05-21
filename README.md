@@ -147,4 +147,4 @@ To run the code:
 
 You can view the complete implementation in the following notebook:
 
-👉 [Diabetes Prediction - Notebook](notebooks/diabetes-prediction-with-feature-engineering-and-ML.ipynb)
+👉 [Diabetes Prediction - Notebook](notebooks/diabetes-prediction-with-feature-engineering and ML.ipynb)

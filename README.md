@@ -143,3 +143,8 @@ To run the code:
 ### ROC Curve
 ![ROC Curve](image/roc_curve.png)
 
+## 🔗 Notebook
+
+You can view the complete implementation in the following notebook:
+
+👉 [Diabetes Prediction - Notebook](notebooks/diabetes_prediction.ipynb)
